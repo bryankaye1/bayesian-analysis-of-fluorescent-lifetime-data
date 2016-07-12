@@ -1,1 +1,0 @@
-# bayesian-analysis-of-fluorescent-lifetime-data
