@@ -1,4 +1,0 @@
-C:\Users\Bryan\Documents\MATLAB\data\2014-10-07\irf-347pm
-C:\Users\Bryan\Documents\MATLAB\data\2014-10-07\wigs_3e5
-C:\Users\Bryan\Documents\MATLAB\data\2014-10-07\wigs_3e5
-C:\Users\Bryan\Documents\MATLAB\data\2014-10-07\coumarin_1p4e5_550-88nm_950ex_2000sec.sdt
