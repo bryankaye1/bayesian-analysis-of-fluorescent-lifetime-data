@@ -1,1 +1,0 @@
-DN = sl FN = Y:\Users\bkaye\cluster\matin\matin7554.mat
